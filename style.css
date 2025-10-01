@@ -1,39 +1,66 @@
-body {
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-    margin: 0;
-    padding: 0;
-    background-color: #f4f4f4;
+.skills-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1rem;
+    margin-top: 1rem;
 }
 
-header {
-    background: #35424a;
-    color: white;
+.skill {
+    background: #e7e7e7;
     padding: 1rem;
+    border-radius: 5px;
     text-align: center;
 }
 
-main {
-    padding: 2rem;
-    max-width: 800px;
-    margin: 0 auto;
-    background: white;
-}
-
-section {
-    margin-bottom: 2rem;
-}
-
-h1, h2 {
+.skill h3 {
+    margin-top: 0;
     color: #35424a;
 }
 
-footer {
+#team ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#team li {
+    background: #e7e7e7;
+    margin-bottom: 0.5rem;
+    padding: 0.5rem;
+    border-radius: 5px;
+}
+
+.form-group {
+    margin-bottom: 1rem;
+}
+
+label {
+    display: block;
+    margin-bottom: 0.5rem;
+    font-weight: bold;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 0.5rem;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+button {
     background: #35424a;
     color: white;
-    text-align: center;
-    padding: 1rem;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
+    border: none;
+    padding: 0.7rem 1.5rem;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #2c3840;
+}
+
+#contact-form {
+    max-width: 500px;
+    margin: 0 auto;
 }
