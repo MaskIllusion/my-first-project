@@ -7,7 +7,7 @@
 
 ### Pull Requests:
 - PR Владислава: https://github.com/MaskIllusion/my-first-project/pull/1 ✅
-- PR Типа_Иванова: https://github.com/MaskIllusion/my-first-project/pull/2 ✅
+- PR Владислава: https://github.com/MaskIllusion/my-first-project/pull/2 ✅
 
 ### Code Review:
 - [x] Оба PR проверены
