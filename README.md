@@ -37,6 +37,7 @@
 4. **Задание 4:** [Отчет 4 - Командная работа](https://github.com/MaskIllusion/my-first-project/blob/main/reports/04-teamwork-report.md)
 5. **Задание 5:** [Отчет 5 - Слияние](https://github.com/MaskIllusion/my-first-project/blob/main/reports/05-merge-report.md)
 6. **Задание 6:** [Отчет 6 - Финальный отчет](https://github.com/MaskIllusion/my-first-project/blob/main/reports/06-final-report.md)
+7. **Задание 7:** [Сравнение сред разработки 1С и VS Code для работы с 1С](https://github.com/MaskIllusion/my-first-project/blob/main/reports/%D0%A1%D1%80%D0%B0%D0%B2%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%81%D1%80%D0%B5%D0%B4%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8%201%D0%A1%20%D0%B8%20VS%20Code.md)
 
 ## 🛠️ Технологии и инструменты
 - **Система контроля версий:** Git 2.51.0
