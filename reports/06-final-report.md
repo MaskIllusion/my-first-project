@@ -7,7 +7,6 @@
 
 ### Ссылки:
 - Репозиторий на GitHub: https://github.com/MaskIllusion/my-first-project
-- GitHub Pages: https://maskillusion.github.io/my-first-project
 
 ### Выполненные этапы:
 - [x] Подготовительный этап
